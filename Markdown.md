@@ -105,5 +105,5 @@ Los comandos `date`, `cal` y `who` constituyen un buen punto de partida para fam
 
 Para seguir aprendiendo, se recomienda practicar estos comandos en un entorno seguro y explorar otras herramientas básicas, como `pwd`, `ls` y `cd`, que permiten conocer la ubicación actual y navegar por los directorios.
 
-Con práctica y constancia, el uso de la línea de comandos se convierte en una habilidad útil para la administración y el mantenimiento de sistemas Linux.
+Con práctica y constancia, el uso de la línea de comandos se convierte en una habilidad útil para la administración y el mantenimiento de sistemas Linux. O no...
 
