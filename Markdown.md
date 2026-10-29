@@ -113,3 +113,8 @@ Logaritmo.
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras
+1. Mejorar la presentación de las secciones.
+2. Añadir información relevante a las secciones que la necesiten.
+3. Eliminar contenido redundante.
