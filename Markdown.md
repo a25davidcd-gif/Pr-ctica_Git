@@ -107,3 +107,9 @@ Para seguir aprendiendo, se recomienda practicar estos comandos en un entorno se
 
 Con práctica y constancia, el uso de la línea de comandos se convierte en una habilidad útil para la administración y el mantenimiento de sistemas Linux. O no... Pero puede que sí.
 
+Logaritmo.
+
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
